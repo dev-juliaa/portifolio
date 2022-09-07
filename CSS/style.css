@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+    margin: 0px auto;
+}
+
+body{
+    font-family: 'Quicksand', sans-serif;
+    background-attachment: fixed;
+    background-size: cover;
+    display: grid;
+    align-items: center;
+    justify-items: center ;
+    height: 100vh;
+    text-align: center;
+}
+.box{
+    background: #eee;
+    padding: 2%;
+    box-shadow: 2px 2px 16px rgba(0, 0, 0.16);
+    border-radius: 50px;
+    }
